@@ -1,0 +1,10 @@
+{
+  "name": "my-portfolio-website",
+  "short_name": "my-portfolio-website",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
